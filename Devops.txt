@@ -1,2 +1,6 @@
 name = input("Please Enter Your Name: ")
 read name
+
+cut -d: -f1 /etc/passwd
+
+net user
